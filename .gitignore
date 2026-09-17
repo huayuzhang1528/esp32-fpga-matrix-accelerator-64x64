@@ -1,0 +1,15 @@
+# Gowin generated working directories
+fpga/impl/
+
+# Arduino and editor output
+build/
+.arduinoIDE/
+.vscode/
+
+# Local credentials
+secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
